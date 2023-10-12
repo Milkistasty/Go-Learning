@@ -1,5 +1,5 @@
 # Go Learning
-Coursework and learning code snippets for online courses on Codecademy and GoGuide on Github
+Coursework and learning code snippets for online courses on Codecademy
 
 [Materials 1: Learn Go](https://www.codecademy.com/learn/learn-go)
 
